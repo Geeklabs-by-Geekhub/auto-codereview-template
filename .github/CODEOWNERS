@@ -1,0 +1,7 @@
+# Describes the default owners for everything in
+# the repo. Random person from listed below teams
+# will be requested for review when someone opens 
+# a pull request.
+
+*       @Geeklabs-by-Geekhub/mentors @Geeklabs-by-Geekhub/team
+
